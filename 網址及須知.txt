@@ -1,0 +1,8 @@
+版本:2018.3.14f1
+
+UWA網址__https://lab.uwa4d.com/lab/5cad078d72745c25a8419489
+
+官方Github網址__https://github.com/ElasticSea/Destructible-Walls
+
+本人Github網址__https://github.com/z1125411235/UWA_Destructible-Walls
+
